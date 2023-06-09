@@ -11,12 +11,12 @@ public class EjemploCondicionales {
 			System.out.println("Bienvenido");
 		} // Se pueden quitar las llaves pero solo se va a ejecutar la primera línea
 			// despues del if
-		if (edad >=18) {
+		if (edad >= 18) {
 			System.out.println("Puede entrar");
-		}else {
-			if(cantidad >=2){
+		} else {
+			if (cantidad >= 2) {
 				System.out.println("Usted tiene menos edad pero puede entrar");
-			}else {
+			} else {
 				System.out.println("No puede entrar");
 			}
 			System.out.println("No puede entrar");
